@@ -9,11 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.29"
+    "matter-js": "^0.20.0",
+    "vue": "^3.4.29",
+    "naive-ui": "^2.39.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
     "typescript": "^5.2.2",
+    "vfonts": "^0.0.3",
     "vite": "^5.3.1",
     "vue-tsc": "^2.0.21"
   }
